@@ -34,4 +34,5 @@ pyDHSVM requires Python 3.6 and the following packages:
 Distributed with a MIT license.
 Copyright (C) 2018 pyDHSVM Developers: Christina Bandaragoda, Puroshottam Shivraj, and Nicoleta Cristea
 
+### Acknowledgements
 This repository was made possible by the [University of Washington eScience Institute Incbator Program](http://escience.washington.edu/get-involved/incubator-programs/)
