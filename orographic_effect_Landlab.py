@@ -43,6 +43,7 @@ z=np.repeat(167,T.shape[0])
 plapse=0.0000006
 Precip_z = []
 dTdz=[] #\n",
+
 for i in range(len(T)):
     Precip_temp,dTdz_temp = lapsemodel(T[i],P[i],RH[i],z[i],plapse)
     Precip_z.append(Precip_temp)
