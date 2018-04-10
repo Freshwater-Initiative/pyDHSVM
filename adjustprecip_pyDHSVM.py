@@ -13,9 +13,8 @@ import numpy as np
 #Read in forcing file
 
 homedir='D:/UW_PhD/PreeventsProject/Hydrometeorology and Floods/ForcingData/HydrologySensitivityForcingData'
-homedir='D:\GoogleDrive\Courses\Fluvial_Geomorph\Skokomish\Skmh_calcs'
 header=['Date','T_min','T_max','Relative_Humidity','ShortWave','LongWave','Precip_m']
-data=pd.read_csv('C:/Users/jisheng/repos/pyDHSVM/test.csv',sep=' ',names=header)
+data=pd.read_csv('C:/Users/jisheng/pyDHSVM/data_48.34375_-121.34375.csv',sep=' ',names=header)
 T=(data.T_min+data.T_max)/2
 P=data.Precip_m
 RH=data.Relative_Humidity
