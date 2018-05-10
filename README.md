@@ -7,9 +7,15 @@ pyDHSVM is a community resource for sharing features that provide
 - Run DHSVM model on HPC and cloud resources
 - Optimize DHSVM model parameters
 - Visualize DHSVM ouputs
-- Run DHSVM with Jupyter Notebook environment on HydroShare for educationa and training
+- Run DHSVM tutorials with Jupyter Notebook environment on HydroShare for educationa and training
+
+### Models
+pyDHSVM code is designed to support reproducible modeling by deeply coupling the model parameters used for individual model instances.  A model instance is the set of code, parameters, and data used to generate a specific model output.  A model code is the version of the generic model (e.g. DHSVM 3.1.3) used to generate the model instance.   pyDHSVM code builds model instances and enables sharing, reuse, and replication of model features applied and developed for specific watersheds. OUr demonstration watershed is in the Sauk Suiattle basin in the coastal mountains of Washington State, U.S.A. 
 
 ### How to Contribute
+Link to how use Git to Clone and Push. 
+
+Link to HydroShare. 
 
 ### Installation and Usage 
 pyDHSVM requires Python 3.6 and the following packages: 
