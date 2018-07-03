@@ -1,0 +1,7 @@
+Projection    UTM
+Zone          10
+Datum         NAD27
+Spheroid      CLARKE1866
+Units         METERS
+Zunits        METERS /* NAD_1983 - VCS# = 115702
+Parameters    
