@@ -1,6 +1,6 @@
-ncols	 7
-nrows	 918
-xllcorner	434265.00000
-yllcorner	5129745.00000
+ncols	 386
+nrows	 386
+xllcorner	597855.00000
+yllcorner	5370555.00000
 cellsize	150.00000
 NODATA_value	-9999
