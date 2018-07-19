@@ -1,0 +1,16 @@
+
+################################################################################
+# MODEL AREA SECTION
+################################################################################
+[AREA]                                    # Model area
+Coordinate System    = UTM                # UTM or USER_DEFINED
+Extreme North        = 5370555.000            # Coordinate for northern edge of grid
+Extreme West         = 597855.000             # Coordinate for western edge of grid
+Center Latitude      = 48.211593              # Central parallel of basin 
+Center Longitude     = -121.270127            # Central meridian of basin 
+Time Zone Meridian   = -120.0             # Time zone meridian for area 
+Number of Rows       = 386                # Number of rows
+Number of Columns    = 386               # Number of columns
+Grid spacing         = 150                # Grid resolution in m 
+Point North          =                    # North coordinate for point model if Extent = POINT 
+Point East           =                    # East coordinate for point modelif Extent = POINT 
