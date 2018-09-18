@@ -3,6 +3,7 @@
 Created on Mon Jul  2 16:30:00 2018
 
 @author: cband
+Coded to be interoperable with HydroShare Utilities or run local
 """
 ## -*- coding: utf-8 -*-
 #"""
